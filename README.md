@@ -1,4 +1,4 @@
 codeeval-string-permutations
 ============================
 
-Solution to the String Permutations CodeEval's challenge.
+My solution to the <a href="https://www.codeeval.com/open_challenges/131/">String Permutations</a> <a href="https://www.codeeval.com/">CodeEval's</a> challenge.
